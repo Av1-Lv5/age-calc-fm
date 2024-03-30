@@ -2,11 +2,13 @@
 
 A simple Age Calculator widget built with React js, Typescript, and Tailwind CSS.
 
+## [Live Preview](https://age-calc-fm-alvs.netlify.app)
+
 The designs are from a [challenge by frontendmentor.io](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q)
 
 > Frontendmentor is a platform offering, some free and paywalled professional designs for frontend developers to create stunning projects.
 
-## [Live Preview](https://age-calc-fm-alvs.netlify.app)
+View my list of all solved Frontementor challenges [here](https://github.com/Av1-Lv5/Frontendmentor-challenges)
 
 ## Steps followed
 
